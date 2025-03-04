@@ -1,1 +1,1 @@
-export const BASE_NODE_PORT = 3000;
+export const BASE_NODE_PORT = 3003;
